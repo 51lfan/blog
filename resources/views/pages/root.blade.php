@@ -5,6 +5,7 @@
             <div class="columns">
                 <main class="column is-9">
                     @if($articles->total())
+
                         @include('components.article_list',$articles)
                         @if($articles->total()>10)
                             <div class="box">
