@@ -5,7 +5,6 @@
         </figure>
     </div>
     <hr>
-
     <div class="has-text-centered">
         <a href="https://github.com/51lfan" target="_blank" class="button is-light">
             <span class="icon"><i class="fa fa-github"></i></span>
