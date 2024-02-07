@@ -6,13 +6,13 @@
     </div>
     <hr>
     <div class="has-text-centered">
-        <a href="https://github.com/codeaer" target="_blank" class="button is-light">
+        <a href="https://github.com/51lfan" target="_blank" class="button is-light">
             <span class="icon"><i class="fa fa-github"></i></span>
         </a>
         <a href="{{url('/contact')}}" target="_blank" class="button is-success">
             <span class="icon"><i class="fa fa-weixin"></i></span>
         </a>
-        <a href="mailto:codeaer8@gmail.com" title="codeaer8@gmail.com" target="_blank" class="button is-link">
+        <a href="mailto:1973414293@qq.com" title="codeaer8@gmail.com" target="_blank" class="button is-link">
             <span class="icon"><i class="fa fa-envelope"></i></span>
         </a>
     </div>
