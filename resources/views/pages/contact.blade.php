@@ -1,7 +1,5 @@
 @extends('layouts.app')
-@section('title')
-    联系
-@stop
+@section('title')联系@stop
 @section('content')
     <section class="section">
         <div class="columns">

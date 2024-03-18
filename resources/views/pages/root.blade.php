@@ -1,4 +1,5 @@
 @extends('layouts.app')
+@section('title')留饭@stop
 @section('content')
     <section class="section min-h-screen">
         <div class="container is-max-widescreen">
