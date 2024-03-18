@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>@yield('title')留饭的个人博客</title>
+    <title>@yield('title')|留饭的个人博客</title>
     <link rel="shortcut icon" type="image/x-ico" sizes="32x32" href="{{asset("favicon.ico")}}"/>
     <meta name="author" content="留饭(1973414293@qq.com)"/>
     <meta name="keywords" content="51lfan，留饭"/>
